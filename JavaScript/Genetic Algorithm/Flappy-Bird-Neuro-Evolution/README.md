@@ -1,4 +1,4 @@
-# Flappy Bird Neuro-Evolution
+# Flappy Bird Neuro-Evolution (Inspired by Daniel Shiffman)
 _@author: Dishant Varshney_
 
 * In this project, AI learns to play Flappy Bird game through Neuro-Evolution!
